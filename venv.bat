@@ -1,1 +1,0 @@
-cmd /k call C:\virtualenvs\kaggle\Scripts\activate.bat
